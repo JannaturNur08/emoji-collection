@@ -1,8 +1,7 @@
-# React + Vite
+# Emoji Collection Website
+Welcome to the Emoji Project! This project allows you to search for emojis and easily copy their hex codes.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+**Features**
+**Search Functionality:** Use the search bar to find emojis by their names.
+**Copy Hex Code:** Click on an emoji card to copy its hex code to the clipboard.
+**Visual Feedback:** Selected emoji is displayed on the right side with the hex code for easy reference.
